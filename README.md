@@ -6,7 +6,7 @@ This is my personal portfolio repo.
 
 1. First, clone this repository to your local setup:
 
-        git clone https://github.com/j-netcom-dev/meltus-bwire.git
+        git clone https://github.com/meltus-bwire/meltus-bwire.git
 
 2. Install all the required deps:
 
