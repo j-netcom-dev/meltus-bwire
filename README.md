@@ -1,19 +1,14 @@
-## Welcome
+## Hi, I am Meltus Bwire
 
-This is my personal portfolio repo. 
 
-### Setup
+## About Me
 
-1. First, clone this repository to your local setup:
+I have a profound passion to build elegant solutions to digital problems.
 
-        git clone https://github.com/meltus-bwire/meltus-bwire.git
+<b>Email:</b> 
 
-2. Install all the required deps:
+    meltusbwire10@gmail.com
 
-        npm install
+<b>Location:</b>
 
-3. Start the development server:
-
-        npm run dev
-
-4. Start Editing
+    Kerugoya, Kenya
