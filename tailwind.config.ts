@@ -21,7 +21,7 @@ const config = {
       xl: '1200px'
     },
     fontFamily:{
-      primary: "var(--font-jetbrains-mono)"
+      primary: "var(--font-roboto)"
     },
     extend: {
       colors:{
