@@ -3,11 +3,11 @@
 
 ## About Me
 
-I have a profound passion to build elegant solutions to digital problems.
+I am a passionate and dedicated developer, committed to creating impactful, user-friendly solutions that address digital challenges. With a strong focus on delivering high-quality code, I strive to craft intuitive and efficient experiences that enhance usability and drive positive results. 
 
 <b>Email:</b> 
 
-    meltusbwire10@gmail.com
+    meltusjuma5@gmail.com
 
 <b>Location:</b>
 
